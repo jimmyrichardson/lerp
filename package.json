@@ -1,0 +1,35 @@
+{
+  "name": "lerp",
+  "license": "MIT",
+  "version": "0.1.0",
+  "description": "Some of my favorite linear interpolation helpers.",
+  "author": "Jimmy Richardson",
+  "source": "index.js",
+  "main": "index.js",
+  "umd:main": "index.js",
+  "module": "index.js",
+  "keywords": [
+    "lerp",
+    "linear",
+    "interpolation",
+    "math",
+    "inertia",
+    "motion",
+    "animation",
+    "easing"
+  ],
+  "contributors": [
+    {
+      "name": "Jimmy Richardson",
+      "email": "jlrichii@gmail.com",
+      "url": "https://jimmyrichardson.co"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyrichardson/lerp.git"
+  },
+  "files": [
+    "index.js"
+  ]
+}
