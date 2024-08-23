@@ -1,5 +1,5 @@
 {
-  "name": "lerp",
+  "name": "@jimmyrichardson.co/lerp",
   "license": "MIT",
   "version": "0.1.0",
   "description": "Some of my favorite linear interpolation helpers.",
