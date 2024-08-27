@@ -1,7 +1,7 @@
 {
   "name": "@jimmyrichardson.co/lerp",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Some of my favorite linear interpolation helpers.",
   "author": "Jimmy Richardson",
   "source": "index.js",
